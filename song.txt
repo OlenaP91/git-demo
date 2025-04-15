@@ -1,2 +1,5 @@
 some word for song
 standing strong
+
+
+from text add
